@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: url("images/logIn_bg.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 434px;
+  min-height: 527px;
+  margin: 36px auto 36px 12px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 24px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 224px;
+  height: 66px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-weight: 900;
+  margin: 36px 6px 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 205px;
+  width: 373px;
+  margin: 23px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 378px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 101px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+}
